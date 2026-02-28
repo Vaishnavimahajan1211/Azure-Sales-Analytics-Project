@@ -11,7 +11,7 @@ Azure-Sales-Analytics-Project/
 ├── README.md
 │
 ├── architecture/
-│   └── architecture.png
+│   └── Architectural_Diagram.png
 │
 ├── screenshots/
 │   ├── 01_resource_group.png
