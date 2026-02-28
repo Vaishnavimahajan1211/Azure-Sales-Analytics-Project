@@ -12,7 +12,7 @@ This project showcases cloud data storage, transformation, analytics, and busine
 
 ##  Architecture Diagram
 
-![Architecture Diagram] (architecture/architecture.png)
+![Architecture Diagram] 
 
 ---
 
@@ -52,7 +52,7 @@ An interactive Sales Revenue Dashboard is created in Power BI including:
 
 ##  Dashboard Preview
 
-![Power BI Dashboard] 
+![Power BI Dashboard]
 ---
 
 
@@ -75,6 +75,7 @@ This solution enables:
 - Faster analytics using optimized storage formats
 - Scalable cloud-based architecture
 - Real-time business insights through interactive dashboards
+
 
 
 
