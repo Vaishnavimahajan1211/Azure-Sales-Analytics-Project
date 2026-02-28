@@ -1,0 +1,84 @@
+ # End-to-End Azure Data Engineering & Power BI Analytics Project
+
+## 📌 Project Overview
+
+This project demonstrates a complete end-to-end data engineering pipeline using Azure services and Power BI. 
+
+Raw sales data is ingested into Azure Data Lake Storage Gen2, transformed using Azure Synapse Serverless SQL, converted into Parquet format for performance optimization, processed using Spark Pool for advanced analytics, and finally visualized using an interactive Power BI dashboard.
+
+This project showcases cloud data storage, transformation, analytics, and business intelligence reporting.
+
+---
+
+##  Architecture Diagram
+
+![Architecture Diagram]("C:\Users\mahaj\Downloads\Architectural_Diagram.png".png)
+
+---
+
+##  Technology Stack
+
+- Azure Data Lake Storage Gen2
+- Azure Synapse Analytics (Serverless SQL)
+- Spark Pool
+- Parquet File Format
+- Power BI Desktop
+
+---
+
+##  Project Workflow
+
+###  1 – Store Raw Data in ADLS Gen2
+Raw sales data is uploaded and stored in Azure Data Lake Storage Gen2 to enable scalable and secure cloud storage.
+
+###  2 – Data Transformation using Synapse Serverless SQL
+Serverless SQL Pool is used to query and transform raw data without provisioning dedicated infrastructure.
+
+###  3 – Convert Data to Parquet Format
+Transformed data is converted into Parquet format to improve query performance and reduce storage size using columnar compression.
+
+###  4 – Advanced Analytics using Spark Pool
+Spark Pool is used for advanced data processing and analytics on structured datasets.
+
+###  5 – Data Visualization using Power BI
+An interactive Sales Revenue Dashboard is created in Power BI including:
+- KPI Card (Total Revenue)
+- Category-wise Revenue Bar Chart
+- Revenue Distribution Pie Chart
+- Interactive Slicer Filters
+- Summary Table with Totals
+
+---
+
+##  Dashboard Preview
+
+![Power BI Dashboard]("C:\Users\mahaj\OneDrive\Attachments\Desktop\Azure_Data_Engineering_Project\Project_Screenshots\27.azure.png".png)
+
+---
+
+
+---
+
+##  Key Learnings
+
+- Implemented cloud-based data storage using ADLS Gen2
+- Performed serverless SQL transformations
+- Optimized data performance using Parquet format
+- Executed distributed analytics using Spark Pool
+- Designed interactive Power BI dashboards
+- Built an end-to-end data pipeline in Azure
+
+---
+
+##  Business Impact
+
+This solution enables:
+- Faster analytics using optimized storage formats
+- Scalable cloud-based architecture
+- Real-time business insights through interactive dashboards
+
+
+
+
+
+
