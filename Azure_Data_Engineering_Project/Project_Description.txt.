@@ -12,7 +12,7 @@ This project showcases cloud data storage, transformation, analytics, and busine
 
 ##  Architecture Diagram
 
-![Architecture Diagram] Azure_Data_Engineering_Project/architecture.png
+![Architecture Diagram] (Azure_Data_Engineering_Project/architecture.png/Architectural_Diagram.png)
 
 ---
 
@@ -75,6 +75,7 @@ This solution enables:
 - Faster analytics using optimized storage formats
 - Scalable cloud-based architecture
 - Real-time business insights through interactive dashboards
+
 
 
 
